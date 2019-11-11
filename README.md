@@ -48,6 +48,9 @@ Aria-telegram-mirror-bot is now written in TypeScript. If you are migrating from
    * The URL will be something like `https://drive.google.com/drive/u/0/folders/012a_345bcdefghijk`. Copy the part after `folders/` (`012a_345bcdefghijk`). This is the `GDRIVE_PARENT_DIR_ID` that you'll need in step 5 of the Installation section.
 
 ## Installation
+0. Linux nodejs Installation
+	curl -sL https://deb.nodesource.com/setup_10.x | sudo -E bash -
+	sudo apt install nodejs
 
 1. Install TypeScript with `sudo npm install -g typescript`
 
