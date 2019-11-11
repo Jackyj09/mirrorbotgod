@@ -104,6 +104,9 @@ Aria-telegram-mirror-bot is now written in TypeScript. If you are migrating from
 11. In the terminal, it'll ask you to visit an authentication URL. Visit it, grant access, copy the code on that page, and paste it in the terminal.
 
 That's it.
+## To deploy it to heroku
+
+https://github.com/MrRobotGOD/aria-telegram-mirror-bot/blob/master/heroku_guide.md
 
 ## Constants description
 
